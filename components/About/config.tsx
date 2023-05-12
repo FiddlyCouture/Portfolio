@@ -1,36 +1,36 @@
 import {
-  SiFirebase,
-  SiReact,
-  SiRedux,
-  SiStorybook,
-  SiTailwindcss,
-  SiTypescript,
+  SiPython,
+  SiPrometheus,
+  SiKubernetes,
+  SiGrafana,
+  SiDocker,
+  SiCplusplus,
 } from "react-icons/si";
 
 const tech = [
   {
-    name: "React",
-    icon: <SiReact />,
+    name: "TSDB",
+    icon: <SiPrometheus />,
   },
   {
-    name: "Redux Toolkit",
-    icon: <SiRedux />,
+    name: "Kubernetes",
+    icon: <SiKubernetes />,
   },
   {
-    name: "TypeScript",
-    icon: <SiTypescript />,
+    name: "Grafana",
+    icon: <SiGrafana />,
   },
   {
-    name: "Tailwind CSS",
-    icon: <SiTailwindcss />,
+    name: "Python",
+    icon: <SiPython />,
   },
   {
-    name: "Firebase",
-    icon: <SiFirebase />,
+    name: "Docker",
+    icon: <SiDocker />,
   },
   {
-    name: "Storybook",
-    icon: <SiStorybook />,
+    name: "CPP",
+    icon: <SiCplusplus />,
   },
 ];
 

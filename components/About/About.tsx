@@ -26,22 +26,21 @@ export default function About() {
         </SubHeading>
 
         <Heading size="sm" dark className="font-extrabold">
-          a frontend developer with affinity for design, intuitive user
-          experience and pixel-perfect user interfaces
+          a Software developer at a High Frequency Trading Firm, Expert at Strategies and mental models
+          with a knack of Finance.
         </Heading>
 
         <div className="flex flex-col space-y-4 leading-relaxed md:flex-row md:space-x-12 md:space-y-0">
           <p className="w-full whitespace-pre-line md:w-1/2">
-            {`I am a frontend-focused software engineer with  6+ years of professional development experience, holding a degree of BS Computer Science from the University of the Philippines.
-            \nI have been employed by leading tech companies and emerging amazing startup companies throughout my career thus far.`}
+            {`I am a software engineer with experience of professional development and TradeOps as well as Site Reliability, holding a degree of BTech Computer Science from the Indian Institute of Information Technology.
+            \nI have been employed by leading High Frequency Trading and Tech companies and emerging amazing startup companies throughout my career thus far.`}
           </p>
 
           <div className="w-full md:w-1/2">
-            Currently, I am a Senior Software Engineer,{" "}
-            <span className="font-bold">focusing on the frontend</span>. On a
+            Currently, I am a Software Engineer,{" "}
+            <span className="font-bold">focusing on the </span>. On a
             daily basis, I work with <MobileTechList />
-            <TechList /> among others, in building and maintaining web
-            applications and design systems —
+            <TechList /> among others, in building and maintaining Trading and design systems —
             <span className="font-bold">all built from the ground up</span>.
           </div>
         </div>

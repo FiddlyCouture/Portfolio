@@ -28,9 +28,9 @@ export default function Contact() {
           </p>
         </div>
 
-        <Clipboard text="marie.bawanan@gmail.com">
+        <Clipboard text="jainabhis1999@gmail.com">
           <Heading dark size="xs">
-            marie.bawanan@gmail.com
+            jainabhis1999@gmail.com
           </Heading>
         </Clipboard>
 
@@ -38,17 +38,17 @@ export default function Contact() {
           Alternatively, you can also send me a message on
           <Badge
             icon={<SiLinkedin />}
-            onClick={() => openInNewTab("https://linkedin.com/in/maribwnn")}
+            onClick={() => openInNewTab("https://www.linkedin.com/in/abhishek---jain/")}
             className="ml-1"
           >
             Linkedin
           </Badge>
         </div>
 
-        <p className="whitespace-pre-line text-sm font-bold">
+        {/* <p className="whitespace-pre-line text-sm font-bold">
           {`This site is still in the works, check back often. `}
           &#9786;
-        </p>
+        </p> */}
       </div>
       <Float config={contact} />
     </SectionLayout>

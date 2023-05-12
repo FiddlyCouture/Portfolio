@@ -13,14 +13,14 @@ export default function Home() {
         </SubHeading>
 
         <Heading dark className="text-center font-extrabold">
-          <SplitText text="Marieflor" />
-          <SplitText text="Bawanan" />
+          <SplitText text="Abhishek" />
+          <SplitText text="Jain" />
         </Heading>
 
         <p className="text-center md:whitespace-pre-line">
-          {`I am a frontend developer who loves to work on
-                the web. I am passionate about building simple
-                and elegant solutions to complex problems.`}
+          {`I am a software developer who loves to work on
+                the Trading Systems and Machine learning. I am passionate about building simple
+                and elegant solutions to complex problems in some of the world's cutting industry.`}
         </p>
       </div>
       <Float config={home} />
